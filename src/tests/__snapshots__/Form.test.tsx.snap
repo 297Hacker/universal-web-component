@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ContactForm/> Contact form has two inputfield,with a Textare and a button 1`] = `
+<Fragment>
+  <styled.form
+    className="contact-form"
+  >
+    <fieldset>
+      <legend />
+      <div>
+        <label>
+          Name:
+        </label>
+        <InputField
+          maxValue={50}
+          name="name"
+          placeholder="Name"
+          type="name"
+        />
+      </div>
+      <div>
+        <label>
+          Email:
+        </label>
+        <InputField
+          maxValue={25}
+          name="email"
+          placeholder="Email"
+          type="email"
+        />
+      </div>
+      <div>
+        <label>
+          Message:
+        </label>
+        <TextArea />
+      </div>
+      <Component
+        onClick={[Function]}
+        type="button"
+      >
+        Send
+      </Component>
+      <styled.span>
+        this is viewed when clicked
+      </styled.span>
+    </fieldset>
+  </styled.form>
+</Fragment>
+`;
+
+exports[`<ContactForm/> menu has two link component 1`] = `
+<Fragment>
+  <styled.form
+    className="contact-form"
+  >
+    <fieldset>
+      <legend />
+      <div>
+        <label>
+          Name:
+        </label>
+        <InputField
+          maxValue={50}
+          name="name"
+          placeholder="Name"
+          type="name"
+        />
+      </div>
+      <div>
+        <label>
+          Email:
+        </label>
+        <InputField
+          maxValue={25}
+          name="email"
+          placeholder="Email"
+          type="email"
+        />
+      </div>
+      <div>
+        <label>
+          Message:
+        </label>
+        <TextArea />
+      </div>
+      <Component
+        onClick={[Function]}
+        type="button"
+      >
+        Send
+      </Component>
+      <styled.span>
+        this is viewed when clicked
+      </styled.span>
+    </fieldset>
+  </styled.form>
+</Fragment>
+`;

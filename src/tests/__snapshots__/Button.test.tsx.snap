@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button/> should render the button conent 1`] = `
+<Fragment>
+  <styled.button
+    className="button"
+    name="button"
+    value="Click"
+  >
+    Click button
+  </styled.button>
+  <styled.span
+    className="button"
+  >
+    view content when button is clicked
+  </styled.span>
+</Fragment>
+`;

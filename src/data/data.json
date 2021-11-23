@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Aruba",
+    "currency": "FL"
+  },
+  {
+    "id": 2,
+    "name": "Brazil",
+    "currency": "BRL"
+  },
+  {
+    "id": 3,
+    "name": "Germany",
+    "currency": "EUR"
+  },
+  {
+    "id": 4,
+    "name": "England",
+    "currency": "PND"
+  },
+  {
+    "id": 5,
+    "name": "Japan",
+    "currency": "JEN"
+  }
+]
