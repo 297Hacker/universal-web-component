@@ -1,0 +1,12 @@
+.idea
+/.htaccess
+/www/.htaccess
+yarn-error.log
+detail/
+node_modules/
+npm-debug.log
+README.md
+
+node_modules
+
+
